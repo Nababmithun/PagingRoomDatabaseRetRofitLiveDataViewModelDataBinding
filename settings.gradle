@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Paging--RoomDatabase--Retrofit---LiveData--ViewModel--DataBinding"
